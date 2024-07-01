@@ -23,3 +23,5 @@ x = mycol.insert_many(mylist)
 
 #print list of the _id values of the inserted documents:
 print(x.inserted_ids)
+
+"C:\Users\Jackb\Downloads\mongosh-2.2.10-win32-x64\mongosh-2.2.10-win32-x64\bin\mongosh.exe"
